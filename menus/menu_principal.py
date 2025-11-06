@@ -1,0 +1,12 @@
+def afficher_menu_principal():
+    print("\n" + "="*60)
+    print("🎓 SYSTÈME DE GESTION DES NOTES")
+    print("="*60)
+    print("1. Gestion des notes")
+    print("2. Tableau de bord statistique")
+    print("3. Visualisations graphiques")
+    print("4. Dashboard de décision")
+    print("5. Export des données")
+    print("6. Gestion du système")
+    print("7. Quitter")
+    print("="*60)
