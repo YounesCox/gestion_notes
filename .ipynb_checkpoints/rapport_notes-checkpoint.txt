@@ -1,0 +1,10 @@
+===== RAPPORT DES NOTES =====
+
+Younes Oubllouhou : 15.5/20
+Ibrahimi : 18.0/20
+Amine : 19.0/20
+
+--- Statistiques globales ---
+Moyenne : 17.50
+Min : 15.50
+Max : 19.00
